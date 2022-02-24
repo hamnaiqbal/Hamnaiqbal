@@ -7,7 +7,7 @@
 ### Learn About Hamna Iqbal Khan ❤️
 
 
-- ☕ Former Employee at Starbucks of Trinidad & Tobago [](https://www.starbucks.tt/).
+- ☕ Former Employee at [Starbucks of Trinidad & Tobago](https://www.starbucks.tt/).
 - 🙋 Employee at [Nastech](https://nastechgroup.com/) as Front End Web Developer.
 - 🙋 Former Ex Lead at [National Youth Assembly](https://www.nya.com.pk/)
 - 🌱 I’m Full Time Wordpress Developer.
@@ -17,4 +17,4 @@
 - 📫 How to reach me: [Linked In](https://www.linkedin.com/in/hamnaiqbalkhan/)
 - 😄 Pronouns: Her/She
 - ⚡ Fun fact: I can Dance 
--->
+
