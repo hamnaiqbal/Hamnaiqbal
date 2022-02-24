@@ -11,11 +11,6 @@
 <p align= "right">
 <img src="https://user-images.githubusercontent.com/76257857/155509051-14e574d8-2afe-4101-a556-d0ec15f7b8b1.jpg" width=30% height=50%>
   </p>
-
-
-
-
-
 - ☕ Former Employee at [Starbucks of Trinidad & Tobago](https://www.starbucks.tt/).
 - 🙋 Employee at [Nastech](https://nastechgroup.com/) as Front End Web Developer.
 - 🙋 Former Ex Lead at [National Youth Assembly](https://www.nya.com.pk/)
