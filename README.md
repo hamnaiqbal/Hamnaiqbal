@@ -14,7 +14,9 @@
 - ☕ Former Employee at [Starbucks of Trinidad & Tobago](https://www.starbucks.tt/).
 - 🙋 Employee at [Nastech](https://nastechgroup.com/) as Front End Web Developer.
 - 🙋 Former Ex Lead at [National Youth Assembly](https://www.nya.com.pk/)
-- 🌱 I’m Full Time Wordpress Developer.
+- 🌱 I’m Full Time React JS developer.
+- 🙌 I’m Full Time Wordpress Developer.
+- 💪 My strength in rapid responsive Designing.
 - 👯 My skills are in designing, development SEO Optimization and Web Scrapping. 
 - 💻 Mentor at teaching Web Development.
 - 👻 Open source contributor at Github.
