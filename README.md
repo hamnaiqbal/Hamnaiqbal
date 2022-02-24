@@ -1,11 +1,8 @@
 ### Hi People. Welcome To Hamna's Github. 👋
 
-<!--
-**hamnaiqbal/Hamnaiqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-# **Anonymous girl stucked in the world of Developers** 🙋💃
+ **Anonymous girl stucked in the world of Developers**🙋💃
 
 ### Learn About Hamna Iqbal Khan ❤️
 
