@@ -7,8 +7,8 @@
 ### Learn About Hamna Iqbal Khan ❤️
 <br clear="right"/>
 
+<img src="https://user-images.githubusercontent.com/76257857/155509051-14e574d8-2afe-4101-a556-d0ec15f7b8b1.jpg" width=50% height=50%>
 
- ![overworked-developer-creating-website-ui-web-application-development-program-software-optimization-concept-horizontal-vector-illustration_48369-40037](https://user-images.githubusercontent.com/76257857/155509051-14e574d8-2afe-4101-a556-d0ec15f7b8b1.jpg)
 
 
 
