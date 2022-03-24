@@ -16,7 +16,7 @@
 
 ## Active Member Of:
 - 😄 Member at Turing Developer Community.
-- 😎 Member of Google's Women Techmakers
+- 😎  Member at [Google's Women Techmakers](https://www.womentechmakers.com/)
 - 🙋 Former Ex Lead at [National Youth Assembly](https://www.nya.com.pk/)
 
 ## What can i do? 
@@ -24,6 +24,7 @@
 - 🌱 Learning Next JS and Typescript to enhance my skillset.
 - 🙌 I’m Full Time Wordpress Developer.
 - 💪 My strength in rapid responsive Designing.
+- 🎨 I can design amazing layout using Bulma, BootStrap, tailwind Styled Componenets  Sass.
 - 👯 My skills are in designing, development SEO Optimization and Web Scrapping. 
 - 📝Actively listened to customers' requests, confirming full understanding before addressing concerns.
 - 💡 Used Seo Optimization and other software tools to create to grow their business.
@@ -33,7 +34,6 @@
 - 🌐 Implemented Google-based SEO and ad campaigns to meet budget specifications.
 - 🐛 Provided front-end website development using WordPress, Hubspot and other editing software.
 - 🧐 Established presentation consistency across Chrome, Safari, Firefox and other common browser interfaces.
--
 - 👻 Open source contributor at Github.
 
 ## Reach Hamna
