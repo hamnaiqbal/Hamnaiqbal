@@ -11,9 +11,11 @@
   
 
 
-- ☕ Former Employee at [Starbucks of Trinidad & Tobago](https://www.starbucks.tt/).
-- 🙋 Employee at [Nastech](https://nastechgroup.com/) as Front End Web Developer.
+- ☕ Built Site for [Starbucks of Trinidad & Tobago](https://www.starbucks.tt/).
+- 🙋 Ex Employee at [Nastech](https://nastechgroup.com/) as Front End Web Developer.
+- 🙋 Working at TechnoSpark & Co. as Next JS Developer.
 - 🙋 Former Ex Lead at [National Youth Assembly](https://www.nya.com.pk/)
+- 😄 Member of [Turing Tech Team]
 - 🌱 I’m Full Time React JS developer.
 - 🌱 Learning Next JS and Typescript to enhance my skillset.
 - 🙌 I’m Full Time Wordpress Developer.
