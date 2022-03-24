@@ -1,15 +1,13 @@
 ### Hi People. Welcome To Hamna's Github. 👋
 
 
-
  **Anonymous girl stucked in the world of Developers**🙋💃
-
 ### Learn About Hamna Iqbal Khan ❤️
 <p align= "center">
 <img src="https://user-images.githubusercontent.com/76257857/155509051-14e574d8-2afe-4101-a556-d0ec15f7b8b1.jpg" width=30% height=50%>
   </p>
   
-
+  
 
 - ☕ Built Site for [Starbucks of Trinidad & Tobago](https://www.starbucks.tt/).
 - 🙋 Ex Employee at [Nastech](https://nastechgroup.com/) as Front End Web Developer.
