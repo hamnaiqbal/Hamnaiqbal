@@ -26,14 +26,14 @@
 - 💪 My strength in rapid responsive Designing.
 - 🎨 I can design amazing layout using Bulma, BootStrap, tailwind Styled Componenets  Sass.
 - 👯 My skills are in designing, development SEO Optimization and Web Scrapping. 
-- 📝Actively listened to customers' requests, confirming full understanding before addressing concerns.
-- 💡 Used Seo Optimization and other software tools to create to grow their business.
-- 🩹Identified issues, analyzed information and provided solutions to problems.
-- 🧑💻 Planned website development, converting mockups into usable web presence with HTML, React JS, Redux and JSON coding.
-- 🔨 Converted graphic designs to usable web images using React JS.
-- 🌐 Implemented Google-based SEO and ad campaigns to meet budget specifications.
+- 📝 Actively listen to customers' requests, confirming full understanding before addressing concerns.
+- 💡  Use Seo Optimization and other software tools to create to grow their business.
+- 🩹 Identified issues, analyzed information and provided solutions to problems.
+- 🧑💻 Plan website development, converting mockups into usable web presence with HTML, React JS, Redux and JSON coding.
+- 🔨 Convert graphic designs to usable web images using React JS.
+- 🌐 Implement Google-based SEO and ad campaigns to meet budget specifications.
 - 🐛 Provided front-end website development using WordPress, Hubspot and other editing software.
-- 🧐 Established presentation consistency across Chrome, Safari, Firefox and other common browser interfaces.
+- 🧐 Establish presentation consistency across Chrome, Safari, Firefox and other common browser interfaces.
 - 👻 Open source contributor at Github.
 
 ## Reach Hamna
