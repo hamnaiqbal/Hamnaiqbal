@@ -42,4 +42,4 @@
 - ⚡ Fun fact: I can Dance 
 
 
-
+[![Hamnas GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamnaiqbal)](https://github.com/Hamnaiqbal/github-readme-stats)
