@@ -39,7 +39,7 @@
 ## Reach Hamna
 - 📫 How to reach me: [Linked In](https://www.linkedin.com/in/hamnaiqbalkhan/) [Facebook](https://www.facebook.com/HamnaKhanIqbal/)
 - 😄 Pronouns: Her/She
-- ⚡ Fun fact: I can Dance 
+
 
 
 [![Hamnas GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamnaiqbal)](https://github.com/Hamnaiqbal/github-readme-stats)
