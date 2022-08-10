@@ -22,19 +22,13 @@
 ## What can i do? 
 - 🌱 I’m Full Time React JS developer.
 - 🌱 Learning Next JS and Typescript to enhance my skillset.
-- 🙌 I’m Full Time Wordpress Developer.
 - 💪 My strength in rapid responsive Designing.
 - 🎨 I can design amazing layout using Bulma, BootStrap, tailwind Styled Componenets  Sass.
 - 👯 My skills are in designing, development SEO Optimization and Web Scrapping. 
 - 📝 Actively listen to customers' requests, confirming full understanding before addressing concerns.
-- 💡  Use Seo Optimization and other software tools to create to grow their business.
-- 🩹 Identified issues, analyzed information and provided solutions to problems.
 - 🧑💻 Plan website development, converting mockups into usable web presence with HTML, React JS, Redux and JSON coding.
 - 🔨 Convert graphic designs to usable web images using React JS.
-- 🌐 Implement Google-based SEO and ad campaigns to meet budget specifications.
-- 🐛 Provided front-end website development using WordPress, Hubspot and other editing software.
-- 🧐 Establish presentation consistency across Chrome, Safari, Firefox and other common browser interfaces.
-- 👻 Open source contributor at Github.
+
 
 ## Reach Hamna
 - 📫 How to reach me: [Linked In](https://www.linkedin.com/in/hamnaiqbalkhan/) [Facebook](https://www.facebook.com/HamnaKhanIqbal/)
