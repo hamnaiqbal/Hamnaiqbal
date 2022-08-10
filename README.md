@@ -14,10 +14,6 @@
 - 🚀 Built Multiple Websites for Several businesses.
 - ✨ Prepared variety of different designs, layouts and websites as a Freelancer.
 
-## Active Member Of:
-- 😄 Member at Turing Developer Community.
-- 😎  Member at [Google's Women Techmakers](https://www.womentechmakers.com/)
-- 🙋 Former Ex Lead at [National Youth Assembly](https://www.nya.com.pk/)
 
 ## What can i do? 
 - 🌱 I’m Full Time React JS developer.
